@@ -1,0 +1,23 @@
+{
+  "name": "nestorHead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^3.0.2",
+    "axios": "^1.4.0",
+    "chatgpt": "^5.2.5",
+    "dotenv": "^16.3.1",
+    "elevenlabs-node": "^1.1.0",
+    "path": "^0.12.7",
+    "socket.io": "^4.7.1",
+    "sound-play": "^1.1.0"
+  }
+}
